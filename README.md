@@ -1,4 +1,4 @@
-## Insurance Claim Amount Prediction using Machine Learning
+## Insurance Claim Amount Prediction
 
 ## Project Overview
 This project aims to predict the insurance claim amount using customer demographics, health information, hospitalization details, and policy-related features.
