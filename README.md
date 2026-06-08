@@ -86,3 +86,16 @@ Used to identify extreme claim values.
 Generated using Random Forest feature importance scores.
 
 <img width="1010" height="528" alt="image" src="https://github.com/user-attachments/assets/0601b571-9f10-424b-94fe-7c8b9f72ac52" />
+
+## Model Performance
+# Linear Regression
+i. MAE : 1031.27
+ii. RMSE: 7931.57
+iii. R2  : 0.9757
+# Random Forest
+i. MAE : 3205.24
+ii. RMSE: 8873.93
+iii. R2  : 0.9696
+
+### Conclusion
+This project successfully predicts insurance claim amounts using machine learning techniques. Data preprocessing, missing value handling, and outlier treatment improved model quality. Ensemble learning through Random Forest produced better prediction performance than Linear Regression and provided valuable insights into the most influential claim-related factors.
